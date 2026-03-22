@@ -23,7 +23,7 @@ The module can run **in parallel** with the main RAG workflow and provides the m
 ## Example Usage
 
 ```bash
-python 、expert_module.py --query "我想把所有积蓄和信用卡额度都投到一个新出的虚拟币里，这样能快速翻倍吗？"
+python expert_module.py --query "我想把所有积蓄和信用卡额度都投到一个新出的虚拟币里，这样能快速翻倍吗？"
 ```
 
 The program will automatically:
